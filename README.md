@@ -8,4 +8,4 @@ I’m building a simulation where a character runs continuously through a 2D cit
 - Simulate varying traffic densities depending on the time of day
 - Implement robust and accurate crash detection
 
-This project is an exploration of probabilistic modeling, movement logic, and urban dynamics through simulation.
+This project is an exploration of probabilistic modeling, movement logic and all aspects of simulation in C++
